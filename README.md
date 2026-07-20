@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there, welcome to my GitHub!
 
-<!--
-**priyanshugautam456-arch/priyanshugautam456-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Priyanshu Gautam**, an aspiring **Data Analyst** on a mission to transform data into insights and ideas into impact.
 
-Here are some ideas to get you started:
+Here you'll find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data Analytics Projects
+- 🐍 Python & SQL Experiments
+- 📈 Excel & Power BI Dashboards
+- 💡 Learning Notes & Resources
+- 🚀 Projects that reflect my journey from beginner to professional
+
+Every project here represents something new I've learned and built.
+
+Whether you're here to explore my work, collaborate, or simply follow my journey—I'm glad you're here! 😊
+
+**Let's learn, build, and grow together—one project at a time.** 🚀
