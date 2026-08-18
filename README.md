@@ -12,7 +12,7 @@ Here you'll find:
 
 Every project here represents something new I've learned and built.
 
-Whether you're here to explore my work, collaborate, or simply follow my journey—I'm glad you're here! 😊
+Whether you're here to explore my work, collaborate, or simply follow my journey—I'm glad you're here!
 
 **Let's learn, build, and grow together—one project at a time.** 🚀
 
